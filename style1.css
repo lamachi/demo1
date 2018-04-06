@@ -5,11 +5,12 @@ h2 {
 }
 
 body {
-   font-family: Verdana, Calibri;
+  font-family: Verdana, Calibri;
   font-size: 1.25em;
 }
 
 .sm {
- font-size: .95em;
-  style: italic;
+ font-family: verdana, calibri;
+  font-size: .9em;
+  font-style: italic;
 }
