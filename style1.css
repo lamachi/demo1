@@ -3,3 +3,13 @@ h2 {
   font-family: Verdana, Calibri;
   color: blue;	
 }
+
+body {
+   font-family: Verdana, Calibri;
+  font-size: 1.025em;
+}
+
+.sm {
+ font-size: .85em;
+  style: oblique;
+}
